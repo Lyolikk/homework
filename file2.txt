@@ -1,1 +1,14 @@
-111
+Bug report's structure
+
+ID
+2. Author
+3. Samary
+4. invirenment
+5. Preconditions
+6. conditions
+7. steps to reproduse
+8. actual result
+9. expected result
+10. Severity
+11. Priority
+10. Additional information

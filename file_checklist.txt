@@ -1,0 +1,8 @@
+Checklist  structure
+
+1. ID
+2. Samary
+3. (preconditious)
+4. conditious
+5. expected result
+6. status
